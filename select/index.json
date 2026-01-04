@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "BADモード",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-01-04T10:00:27.471088Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Mode [BADモード]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Bad_Mode_[BADモード]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Mode (Badモード)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Bad_Mode_(Badモード)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_BADモード_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/04_BADモード_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BADモード - BAD MODE",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_BADモード_-_BAD_MODE_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BADモード (Live Version)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/06_BADモード_(Live_Version)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "Utada, Hikaru",
+      "has_synced": true,
+      "path": "select/07_BADモード_Utada,_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/08_BADモード_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BADモード - BAD MODE",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/09_BADモード_-_BAD_MODE_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BADモード (Live Version)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/10_BADモード_(Live_Version)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/11_BADモード_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/12_BADモード_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BADモード",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/13_BADモード_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Badモード",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/14_Badモード_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "BADモード (BAD MODE)",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/15_BADモード_(BAD_MODE)_宇多田光.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BADモード",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_BADモード_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "BADモード",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_BADモード_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "BADモード",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_BADモード_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "BADモード",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_BADモード_宇多田_ヒカル.txt"
+    }
+  ]
+}
